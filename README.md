@@ -50,7 +50,7 @@ Philadelphia is a wonderful place. 1 August.--I came up here an hour ago with Lu
        fill="blue"
        show-labels
        fill-opacity=".5">
-<param ve-map-layer geojson active title="Philadelphia neighborhoods" url="https://raw.githubusercontent.com/blackmad/neighborhoods/master/philadelphia.geojson"
+<param ve-map-layer geojson active title="Philadelphia neighborhoods" show-labels url="https://raw.githubusercontent.com/blackmad/neighborhoods/master/philadelphia.geojson"
        label="Custom Label">
 
 ## Multiple viewers
