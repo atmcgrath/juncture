@@ -53,6 +53,14 @@ Philadelphia is a wonderful place. 1 August.--I came up here an hour ago with Lu
 <param ve-map-layer geojson active title="Philadelphia neighborhoods" show-labels url="https://raw.githubusercontent.com/blackmad/neighborhoods/master/philadelphia.geojson"
        label="Custom Label">
 
+## Image comparison
+He is evidently the Sir Oracle of them, and I should think must have been in his time a most dictatorial person. He will not admit anything, and downfaces everybody. If he can't out-argue them he bullies them, and then takes their silence for agreement with his views. Lucy was looking sweetly pretty in her white lawn frock; she has got a beautiful colour since she has been here. I noticed that the old men did not lose any time in coming up and sitting near her when we sat down. She is so sweet with old people; I think they all fell in love with her on the spot. Even my old man succumbed and did not contradict her, but gave me double share instead. I got him on the subject of the legends, and he went off at once into a sort of sermon. I must try to remember it and put it down.
+<param ve-compare curtain
+       url="http://digitalscholarship.brynmawr.edu/24-31/files/original/212b7f244b52afe0b808924dfa221780.jpg"
+       >
+<param ve-compare
+       url="http://digitalscholarship.brynmawr.edu/24-31/files/original/0220d31f95d099a775617266cbf480fd.jpg">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
